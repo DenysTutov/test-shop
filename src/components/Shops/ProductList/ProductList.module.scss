@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  padding: 10px 0;
+
+  width: calc(100% - 300px);
+  height: 100vh;
+  margin-left: 50px;
+  background-color: #dddddd;
+  overflow-y: auto;
+
+  border-radius: 10px;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}

@@ -1,0 +1,33 @@
+[
+  {
+    "createdAt": "2022-07-18T23:48:52.730Z",
+    "shopName": "McDonald's",
+    "products": [
+      "Hamburger",
+      "Cheeseburger",
+      "Sandwich",
+      "Cola",
+      "Milk shake",
+      "Muffin"
+    ],
+    "id": "1"
+  },
+  {
+    "createdAt": "2022-07-18T21:43:51.403Z",
+    "shopName": "KFC",
+    "products": ["Hamburger", "Cheeseburger", "Fried chicken", "Donuts"],
+    "id": "2"
+  },
+  {
+    "createdAt": "2022-07-19T13:11:43.783Z",
+    "shopName": "Italiano",
+    "products": ["Pizza", "Sandwich", "Hot dog", "Baguette", "Pancake"],
+    "id": "3"
+  },
+  {
+    "createdAt": "2022-07-19T14:23:27.109Z",
+    "shopName": "Maxican",
+    "products": ["Burrito", "Cookie", "Taco", "Pretzel"],
+    "id": "4"
+  }
+]
